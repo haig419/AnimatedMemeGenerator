@@ -1,7 +1,7 @@
 # AnimatedMemeGenerator
 A GUI application for generating animated memes. It allows the user to open an image, enter a message, adjust the number of frames and typing speed, and save the generated animation as a GIF file.
 
-1. To run download the "AnimatedMemeGenerator.jar" file from the "build folder".
+1. To run, download the "AnimatedMemeGenerator.jar" file from the "build folder".
 
 2. Upon downloading, open the file and it should display a window called "Animated Meme Generator". 
 
